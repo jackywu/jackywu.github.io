@@ -8,7 +8,9 @@ author: JackyWu
 
 ---
 
+### Contact me
 
+![](/assets/images/weixin-pic-jackywu.jpg)
 
 # 概念
 
