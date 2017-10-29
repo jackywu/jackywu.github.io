@@ -1,10 +1,10 @@
 ---
-layout: post
+
 title:  saltstack高可用架构设计
 category: articles
 tags: [saltstack,HA]
 author: JackyWu
-comments: true
+
 
 ---
 

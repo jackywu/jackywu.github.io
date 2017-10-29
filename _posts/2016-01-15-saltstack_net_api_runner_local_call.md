@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: Saltstack net-api Runner/Local模块调用分析   
 category: articles  
 tags: [saltstack, api, runner, local]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

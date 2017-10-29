@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title:  SaltStack 监控调研  
 category: articles  
 tags: [saltstack,zeromq, 监控]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

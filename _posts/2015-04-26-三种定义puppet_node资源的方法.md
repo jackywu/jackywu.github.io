@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: 三种定义puppet node资源的方法  
 category: articles  
 tags: [puppet, hiera, enc, node.pp]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

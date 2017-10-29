@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: SaltStack Syndic   
 category: articles  
 tags: [saltstack, syndic]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

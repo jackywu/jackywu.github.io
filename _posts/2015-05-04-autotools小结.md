@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: Autotools小结  
 category: articles  
 tags: [automake, autoconf, autotools]  
 author: JackyWu  
-comments: true  
+  
 
 ---  
 

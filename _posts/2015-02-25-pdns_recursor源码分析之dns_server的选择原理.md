@@ -1,10 +1,10 @@
 ---
-layout: post
+
 title: PDNS-Recursor源码分析之dns server的选择原理
 category: articles
 tags: [powerdns, 源码分析, dns]
 author: JackyWu
-comments: true
+
 
 ---
 

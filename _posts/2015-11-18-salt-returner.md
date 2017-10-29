@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: SaltStack Returner调研  
 category: articles  
 tags: [saltstack, event, returner]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 
-layout: post
+
 title: bugfix-for-including-loopback-addr-of-saltstack
 category: articles
 tags: [bugfix, saltstack]
 author: JackyWu
-comments: true
+
 
 ---
 

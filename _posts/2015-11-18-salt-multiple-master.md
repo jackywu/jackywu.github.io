@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: SaltStack Multiple Master  
 category: articles  
 tags: [saltstack, master]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

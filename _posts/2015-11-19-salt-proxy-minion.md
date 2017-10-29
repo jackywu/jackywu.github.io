@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title:  SaltStack proxy minion调研  
 category: articles  
 tags: [saltstack, proxy, minion]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

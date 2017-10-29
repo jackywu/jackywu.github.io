@@ -1,11 +1,11 @@
 ---
 
-layout: post
+
 title: ftp push bugfix for Vagrant
 category: articles
 tags: [ruby, vagrant]
 author: JackyWu
-comments: true
+
 
 ---
 

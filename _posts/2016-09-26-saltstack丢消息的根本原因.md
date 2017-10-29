@@ -1,11 +1,11 @@
 ---
 
-layout: post
+
 title: SaltStack丢消息的根本原因
 category: articles
 tags: [SaltStack, ZeroMQ]
 author: JackyWu
-comments: true
+
 
 ---
 ## 前言

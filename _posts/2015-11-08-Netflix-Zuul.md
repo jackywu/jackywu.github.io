@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: Netflix Zuul调研
 category: articles  
 tags: [Netflix, Cloud, Wireless, Gateway]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

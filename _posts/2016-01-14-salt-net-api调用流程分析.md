@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: Saltstack net-api 调用流程分析   
 category: articles  
 tags: [saltstack, api]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 

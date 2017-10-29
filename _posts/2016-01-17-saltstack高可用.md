@@ -1,11 +1,11 @@
 ---
 
-layout: post   
+   
 title: SaltStack 高可用   
 category: articles  
 tags: [saltstack, ha, 高可用]  
 author: JackyWu  
-comments: true  
+  
 
 ---
 
