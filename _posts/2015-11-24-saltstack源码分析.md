@@ -40,7 +40,7 @@ Salt Master有几个重要的类
 
 ## 3.1. 任务流程图
 
-![](/images/saltstack/saltstack_event_arch.jpg)
+![](/assets/images/saltstack/saltstack_event_arch.jpg)
 
 ## 3.2. 提交任务
 
@@ -269,7 +269,7 @@ ReqServer的启动入口在`salt/master.py`里。
 
 至此，这样一个多进程模型就创建完毕。(该图来自ZeroMQ官网)
 
-![](/images/saltstack/zeromq_fig17.png)
+![](/assets/images/saltstack/zeromq_fig17.png)
 
 ## 3.4. MWorker的处理逻辑
 

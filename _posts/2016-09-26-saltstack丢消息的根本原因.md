@@ -12,7 +12,7 @@ author: JackyWu
 
 首先我们来看一下SaltStack的通信机制架构图
 
-![](/images/saltstack/saltstack_event_arch.jpg)
+![](/assets/images/saltstack/saltstack_event_arch.jpg)
 来自 [saltstack源码分析][]
 
 我们可以知道，消息传输被丢失，无非出现在这些环节里
@@ -100,8 +100,8 @@ ZeroMQ里，不同的socket类型，有不同的Buffer，每个Buffer都是一�
 在saltstack的通信模式中，有这么几处是跟HWM有关的
 
 
-![](../images/saltstack/hwm_component.png)
-![](/images/saltstack/hwm_component.png)
+![](../assets/images/saltstack/hwm_component.png)
+![](/assets/images/saltstack/hwm_component.png)
 
 
 saltstack官方手册的[configuration/examples](https://docs.saltstack.com/en/latest/ref/configuration/examples.html)上提到了这么几个参数

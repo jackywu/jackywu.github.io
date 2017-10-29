@@ -10,7 +10,7 @@ author: JackyWu
 
 ### Contact me
 
-![](/images/weixin-pic-jackywu.jpg)
+![](/assets/images/weixin-pic-jackywu.jpg)
 
 ## 一、待解决问题
 
@@ -30,7 +30,7 @@ author: JackyWu
 
 为了解决如上问题，根据官方[Saltstack的高可用架构](https://docs.saltstack.com/en/latest/topics/highavailability/index.html)的描述，我们选择了MultiMaster-With-Failover模式作为基础，在此基础之上扩展出了MultiMaster-With-Failover-With-Proxy模式。此处我们将Syndic替换成自研的`Proxy`。
 
-![salt高可用架构](/images/saltstack/salt高可用架构.png)
+![salt高可用架构](/assets/images/saltstack/salt高可用架构.png)
 
 我们的架构中，同一个机房部署多台Master，Minion使用`master_type: failover`和  `master_shuffle=True`的方式随机连接本机房其中一个Master，并且让Minion根据`master_alive_interval` 定期检查所连Master的健康状态，发现当前Master故障后会自动连接其他Master实现Failover。
 

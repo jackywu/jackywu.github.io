@@ -18,7 +18,7 @@ author: JackyWu
 
 ## 重要组件
 
-![](/images/zabbix/Zabbix_core_logic.jpg)
+![](/assets/images/zabbix/Zabbix_core_logic.jpg)
 
 ### 1. `main_dbconfig_loop`
 
