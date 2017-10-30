@@ -1,7 +1,8 @@
 ---
 permalink: /about/
-title: "About"
+title: "About me"
 layout: single
+author_profile: true
 ---
 
 # 个人简介
@@ -16,10 +17,8 @@ layout: single
 **毕业院校** ：哈尔滨工程大学  
 **学历**：本科  
 **E-mail** ：jacky.wucheng@gmail.com / jacky.wucheng@icloud.com    
-
-**手机**：13718489579
-
-**工作年数** ：2008年至今  
+**手机**：13718489579    
+**工作年数** ：2008年至今    
 
 
 ![](/assets/images/weixin-pic-jackywu.jpg)
