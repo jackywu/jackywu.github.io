@@ -3,6 +3,7 @@ title: Kubernetes-Helms调研
 category: articles
 tags: [Kubernetes,helm,PaaS,调研]
 author: JackyWu
+toc: true
 ---
 
 
@@ -46,7 +47,7 @@ Repository：用于发布和存储 Chart 的仓库。
 
 # 四、使用
 
-## 1、helm的使用
+## 1、helm命令的使用
 
 安装方法参考 [这里](https://github.com/kubernetes/helm#install)
 
@@ -188,6 +189,10 @@ If TLS is enabled for the Ingress, a Secret containing the certificate and key m
     tls.key: <base64 encoded key>
   type: kubernetes.io/tls
 ```
+
+## 2、chart的编写
+
+参考这里：[Charts](https://docs.helm.sh/using_helm/developing_charts)
 
 
 
