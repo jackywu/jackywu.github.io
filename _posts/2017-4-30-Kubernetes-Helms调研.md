@@ -8,7 +8,7 @@ toc: true
 
 
 
-# 一、概念
+##  一、概念
 
 Helm是Kubernetes生态中的一个资源管理器，类似于debian上的apt和centos上的yum用来管理软件包，而Helm用来管理Kubernetes集群里运行的软件资源。
 
@@ -18,11 +18,11 @@ Helm是Kubernetes生态中的一个资源管理器，类似于debian上的apt和
 
 
 
-# 二、意义
+## 二、意义
 
 要在Kubernetes上安装配置一套复杂的service，需要编写一大堆定义文件，为了解决这些文件的重复定义和管理问题，把这些文件集成到Chart包里统一管理，提升了重用性和管理效率。
 
-# 三、原理
+## 三、原理
 
 Helm包含2个组件
 
@@ -45,9 +45,9 @@ Repository：用于发布和存储 Chart 的仓库。
 
 
 
-# 四、使用
+## 四、使用
 
-## 1、helm命令的使用
+### 1、helm命令的使用
 
 安装方法参考 [这里](https://github.com/kubernetes/helm#install)
 
@@ -190,7 +190,7 @@ If TLS is enabled for the Ingress, a Secret containing the certificate and key m
   type: kubernetes.io/tls
 ```
 
-## 2、chart的编写
+### 2、chart的编写
 
 参考这里：[Charts](https://docs.helm.sh/using_helm/developing_charts)
 
@@ -200,7 +200,7 @@ If TLS is enabled for the Ingress, a Secret containing the certificate and key m
 
 
 
-# 五、开发
+## 五、开发
 
 helm client-side plugin 开发：[helm plugins 开发手册](https://github.com/kubernetes/helm/blob/master/docs/plugins.md)，该插件在helm client端执行，插件代码不属于helm的自身代码仓库。
 
@@ -220,7 +220,7 @@ helm client-side plugin 开发：[helm plugins 开发手册](https://github.com/
 
 
 
-# 六、参考资料
+## 六、参考资料
 
 - [利用Helm简化Kubernetes应用部署-博客-云栖社区-阿里云](https://yq.aliyun.com/articles/159601)
 - [kubernetes/helm: The Kubernetes Package Manager](https://github.com/kubernetes/helm)
