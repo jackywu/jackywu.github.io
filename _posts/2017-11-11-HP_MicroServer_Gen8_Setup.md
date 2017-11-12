@@ -78,7 +78,7 @@ sudo yum versionlock add kmod-hpvsa-*
 
 - [Proliant MicroServer Gen8上安装Centos7.1 | 老梁的学习笔记](https://awei.pub/2015/06/gen8%E5%AE%89%E8%A3%85centos7.1/)
 - [CentOS 7加载B120i驱动 - CSDN博客](http://blog.csdn.net/chineseboytom/article/details/54893858)
-- [HP ProLiant DL20 Gen9 安裝CentOS7時讀不到Raid controller卡解決辦法 | Alvin's Blog 部落格](https://blog.vvtitan.com/2017/09/hp-proliant-dl20-gen9-%E5%AE%89%E8%A3%9Dcentos7%E6%99%82%E8%AE%80%E4%B8%8D%E5%88%B0raid-controller%E5%8D%A1%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95/)
+- [HP ProLiant DL20 Gen9 安裝CentOS7時讀不到Raid controller卡解決辦法](https://blog.vvtitan.com/2017/09/hp-proliant-dl20-gen9-%E5%AE%89%E8%A3%9Dcentos7%E6%99%82%E8%AE%80%E4%B8%8D%E5%88%B0raid-controller%E5%8D%A1%E8%A7%A3%E6%B1%BA%E8%BE%A6%E6%B3%95/)
 - 另一个B120i磁盘阵列的驱动下载地址：[这里](http://mirror.fairway.ne.jp/downloads.linux.hpe.com/SDR/repo/spp/redhat/7Server/x86_64/current/)
 - iLO Advanced Trial License 申请地址：[这里](https://www.hpe.com/us/en/resources/integrated-systems/ilo-advanced-trial.html?parentPage=/us/en/products/servers/integrated-lights-out-ilo)
-- [Gen8打造寝室多用服务器（软件篇） | 音ノ木坂学院](http://zjubank.com/2015/12/05/gen8-software/)，非阵列模式下Gen8读取不到磁盘温度，风扇转速会很高导致噪音偏大（这个问题可以通过使用破解版BIOS解决）。
+- [Gen8打造寝室多用服务器](http://zjubank.com/2015/12/05/gen8-software/)，非阵列模式下Gen8读取不到磁盘温度，风扇转速会很高导致噪音偏大（这个问题可以通过使用破解版BIOS解决）。
