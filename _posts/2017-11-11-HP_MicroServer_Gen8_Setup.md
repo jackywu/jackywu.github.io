@@ -23,7 +23,7 @@ toc: true
 
 由于CentOS和RHEL的亲缘关系，RHEL的驱动在CentOS上可用。
 
-选择驱动和OS版本的时候需要非常注意版本匹配：如 `hpvsa-1.2.16-102.rhel7u3.x86_64.dd.gz` 匹配 `CentOS-7-x86_64-Minimal-1611.iso` 这个版本，1611代表的是CentOS7u3版本，等同于rhel7u3。这个信息在 [CentOS Base Distribution](https://wiki.centos.org/Download) 可查。并且这也意味着，如果HP不出更新版本的驱动，那么我们的OS的kernel就不能升级，否则系统在启动的时候因无法找到Raid阵列就会报Panic。
+选择驱动和OS版本的时候需要**非常注意**版本匹配：如 `hpvsa-1.2.16-102.rhel7u3.x86_64.dd.gz` 匹配 `CentOS-7-x86_64-Minimal-1611.iso` 这个版本，1611代表的是CentOS7u3版本，等同于rhel7u3。这个信息在 [CentOS Base Distribution](https://wiki.centos.org/Download) 可查。并且这也意味着，如果HP不出更新版本的驱动，那么我们的OS的kernel就不能升级，否则系统在启动的时候因无法找到Raid阵列就会报Panic。
 
 
 
@@ -50,7 +50,7 @@ diskutil unmountDisk /dev/disk3
 
 命令的操作方法可以参考 [HPE Dynamic Smart Array B120i/B320i SATA RAID Controller Driver for Red Hat Enterprise Linux 7 (AMD64/EM64T)](https://support.hpe.com/hpsc/swd/public/detail?sp4ts.oid=null&swItemId=MTX_4316d9b65662412686bc826572&swEnvOid=4184#tab3)
 
-2、从 [这里](http://ftp.uci.edu/centos/7.3.1611/isos/x86_64/) 下载CentOS-7镜像。我的是 [CentOS-7u3 Minimal-1611](http://ftp.uci.edu/centos/7.3.1611/isos/x86_64/CentOS-7-x86_64-Minimal-1611.iso)。这里需要注意的是最好不要使用netinstall类型的镜像，因为你可能还要在安装过程中去远程镜像源去下载安装包。
+2、从 [这里](http://ftp.uci.edu/centos/7.3.1611/isos/x86_64/) 下载CentOS-7镜像。我的是 [CentOS-7u3 Minimal-1611](http://ftp.uci.edu/centos/7.3.1611/isos/x86_64/CentOS-7-x86_64-Minimal-1611.iso)。这里**需要注意**的是最好不要使用netinstall类型的镜像，因为你可能还要在安装过程中去远程镜像源去下载安装包。
 
 ```shell
 假设U盘B的盘号为/dev/disk2
