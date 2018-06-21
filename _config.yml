@@ -31,25 +31,25 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 :  "master"
-  commitMessage          : # "New comment."
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
-  transforms:
-    email                : # "md5"
-  generatedFields:
-    date:
-      type               : # "date"
-      options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  #allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  #commitMessage          : # "New comment."
+  #filename               : # comment-{@timestamp}
+  #format                 : # "yml"
+  #moderation             : true
+  #path                   : # "/_data/comments/{options.slug}" (default)
+  #requiredFields         : # ['name', 'email', 'message']
+  #transforms:
+    #email                : # "md5"
+  #generatedFields:
+    #date:
+      #type               : # "date"
+      #options:
+        #format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  enabled                : false
-  siteKey                : "6LchUzYUAAAAAEnA82OBNs6DXf4oOZMGr9fHajFX"
-  secret                 : "KxUKth50C/+K06BdaWjQINlVl8GD7Osie0mIKKhtK7c8ugSVBgrXiyVt1/eatyXCx1kKggr31Pz1dq/OfTw37hPiwSu1jY/beowR7BUbLX6EcNDeJ6AV6AizieVPwojI9n+VYII55kjuLQytmpMzcnFiIkNAUGCsyb7mS2B8QCo="
+  enabled                : true
+  siteKey: "6LchUzYUAAAAAEnA82OBNs6DXf4oOZMGr9fHajFX"
+  secret: "Dm0TIAjj1C5Jnn81qdAQJto0ebfX5mwbvGXMXliprA3hfy7nkYRAc4Gge9uUGjfHl1+BkYd/3WMvWamU2m1QRUZLULmr8mWHy77auFCNC3Yu1C6zqZoT3mHIMoXR9Rjxy5ZGsWQF6fBPtReXYbZDlYnE75Ayl1dRrbG2fucGKBs="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 

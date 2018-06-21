@@ -61,7 +61,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  #name: "JackyWu's Blog"
+  name: "JackyWu's Blog"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -98,10 +98,10 @@ comments:
   # reCaptcha
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
-    enabled: false
+    enabled: true
     # siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
     # secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
     siteKey: "6LchUzYUAAAAAEnA82OBNs6DXf4oOZMGr9fHajFX"
-    secret: "KxUKth50C/+K06BdaWjQINlVl8GD7Osie0mIKKhtK7c8ugSVBgrXiyVt1/eatyXCx1kKggr31Pz1dq/OfTw37hPiwSu1jY/beowR7BUbLX6EcNDeJ6AV6AizieVPwojI9n+VYII55kjuLQytmpMzcnFiIkNAUGCsyb7mS2B8QCo="
+    secret: "Dm0TIAjj1C5Jnn81qdAQJto0ebfX5mwbvGXMXliprA3hfy7nkYRAc4Gge9uUGjfHl1+BkYd/3WMvWamU2m1QRUZLULmr8mWHy77auFCNC3Yu1C6zqZoT3mHIMoXR9Rjxy5ZGsWQF6fBPtReXYbZDlYnE75Ayl1dRrbG2fucGKBs="
