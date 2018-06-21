@@ -1,5 +1,5 @@
 ---
-title: krakea源码分析
+title: kraken源码分析
 category: articles
 tags: [生物信息,kraken,Perl,Shell,C++,分类,鉴定]
 author: JackyWu
