@@ -1,0 +1,7 @@
+_id: 636caf80-89a0-11e8-a727-09d5017e72d9
+message: "An un-handled exception from the multiprocessing process 'Maintenance-54' was caught:\r\nTraceback (most recent call last):\r\n  File \"/usr/lib/python2.7/site-packages/salt/utils/process.py\", line 663, in _run\r\n    return self._original_run()\r\n  File \"/usr/lib/python2.7/site-packages/salt/master.py\", line 238, in run\r\n    salt.daemons.masterapi.clean_old_jobs(self.opts)\r\n  File \"/usr/lib/python2.7/site-packages/salt/daemons/masterapi.py\", line 203, in clean_old_jobs\r\n    mminion.returners[fstr]()\r\n  File \"/usr/lib/python2.7/site-packages/salt/returners/local_cache.py\", line 426, in clean_old_jobs\r\n    shutil.rmtree(t_path)\r\n  File \"/usr/lib64/python2.7/shutil.py\", line 256, in rmtree\r\n    onerror(os.rmdir, path, sys.exc_info())\r\n  File \"/usr/lib64/python2.7/shutil.py\", line 254, in rmtree\r\n    os.rmdir(path)"
+name: taowenjun
+email: 1483633867@qq.com
+url: ''
+hidden: ''
+date: '2018-07-17T09:04:19.448Z'
