@@ -44,11 +44,11 @@ author_profile: true
 
 
 - 广泛了解互联网背景下的技术知识
-- 熟练掌握Python/PHP开发，熟悉Java/Golang/C/C++的开发
+- 熟练掌握Golang/Python/PHP开发，熟悉Java/C/C++的开发
 - 熟练掌握Linux下的自动化系统运维和开发的生态知识
 - 熟练掌握TCP/IP，DNS，HTTP，Restful等互联网相关技术标准
-- 熟练掌握7层、4层负载均衡技术
-- 熟悉MySQL/MongoDB等数据库，Redis/Memcached等NOSQL，HDFS/HBase/Ceph等分布式存储
+- 熟练掌握LVS, HAProxy, Nginx等7层、4层负载均衡技术
+- 熟悉MySQL/PostgreSQL等数据库，Redis/Memcached/MongoDB等NOSQL，HDFS/HBase/Ceph等分布式存储, Neo4j/OrientDB等图数据库
 - 熟悉Kubernetes/Docker容器技术
 - 熟悉大数据生态圈，如MapReduce，Kafka，Spark，ELK
 - 具备大规模分布式系统的架构设计和开发经验
@@ -64,7 +64,24 @@ author_profile: true
 
 ## 2017.11-至今，量化健康
 
-主要负责“微生物知识库”和“菌库”的建设。
+经历过上一段离职期间的思考，我最终选择了隶属于大健康方向下的“生物医疗”行业，我认为这是未来十年最有成长潜力的朝阳行业。
+
+在量化健康，我以架构师的角色，负责公司重点项目“微生物知识库”和“菌库”的建设，这两项均为公司的核心资产。
+
+菌库（生物样本库）
+
+- 调研行业生物样本库的建设方案(如[-80˚C自动化样品存储方案](https://jackywu.github.io/articles/80-C自动化样品存储方案/), [中国最大的菌库调研](https://jackywu.github.io/articles/中国最大的菌种库调研/)), 基于成本和公司目前所处的阶段，建立自己的样本库标准，采购硬件设备，定制各种机械配件和实验器皿，开发IT管理系统来进行统筹管理。开源项目[jackywu/CustomizedFreezerRack: 生物样本库冷冻盒和支架定制](https://github.com/jackywu/CustomizedFreezerRack)
+- 跟实验室团队深入探讨菌库生产流水线的标准化建设方案，开发IT管理系统辅助该流水线的运营，实现样本入库，样本分离，菌株培养，质谱鉴定，测序，菌株冻存和活化，生信流程分析这一完整闭环流程，提升流水线效率超过行业水平2倍以上。
+- 为了提升生信团队对微生物物种鉴定的效率，开发了[jackywu/kraken-extension: utility extension software of kraken](https://github.com/jackywu/kraken-extension)来对kraken进行性能优化。
+
+知识库（知识图谱）
+
+- 用Golang开发了整个IT基础架构的API平台，封装了后端知识图谱数据的存储和访问。
+- 基于[argoproj/argo: Container-native workflows for Kubernetes.](https://github.com/argoproj/argo)架设了“生物信息分析平台”，编写了大量的脚本和文档降低平台的使用门槛，为生物信息团队提供培训，极大提高了其工作效率，增加了“知识库”的知识产量。并且还为argo项目反馈了几个PullRequest，如[Pull Request #1121](https://github.com/argoproj/argo/pull/1121)，[Pull Request #1111](https://github.com/argoproj/argo/pull/1111)。
+- 开发爬虫从公开数据源爬取知识信息, 如，从NCBI爬取PubMed文献，物种的Taxonomy和Genome，从JGI Gold爬取物种信息，从公开词库爬取生物领域专有词汇翻译表，从KOMODO爬取微生物培养基信息等等, 然后将知识之间建立关系后导入搜索引擎ElasticSearch和图数据库Neo4j组成知识图谱, 科研部分就可以通过Web管理系统或者接口调取这些信息。
+
+
+主要技术或软件关键词：Golang，Python，C++，Kubernetes，Argo，Workflow，MongoDB，ElasticSearch，Neo4j，Genome，NCBI，Microbio, JGI Gold，PubMed，Taxonomy
 
 ## 2017.4-2017.11，离职期间
 
@@ -72,9 +89,10 @@ author_profile: true
 
 我选择的行业有：
 
-- 基因大数据分析行业
+- 生物医疗行业
+- 基因大数据行业
 - 智慧城市，智能交通行业
-- 共享经济
+- 共享经济行业
 
 在这期间，阅读了这些书籍
 
@@ -144,7 +162,7 @@ GSLB全局流量调度器优化，提升可靠性和精准度
 
 **2、2011-2012，研发部平台架构组，高级系统开发工程师**
 
-负责全新项目新浪CDN平台SinaEdge的架构设计和关键组件系统开发，带领10人的团队，建立了针对大/小文件优化的加速平台，统一配置管理部署中心，自动化系统和服务监控中心，自动化数据分析中心，全局流量调度器等子系统。在2011年中完成了SinaEdge1.0的release，提供了静态加速和动态加速的平台，在2012年底完成了SinaEdge2.0的release，提高了加速节点和调度器的性能。当时SinaEdge平台承担了新浪大部分静态业务的加速服务，如微博图片，微盘，视频等等，提供了250G的带宽输出。
+负责全新项目新浪CDN平台SinaEdge的架构设计和关键组件系统开发，带领10人的团队，建立了针对大/小文件优化的加速平台，统一配置管理部署中心，自动化系统和服务监控中心，自动化数据分析中心，全局流量调度器等子系统。在2011年中完成了SinaEdge-1.0的release，提供了静态加速和动态加速的平台，在2012年底完成了SinaEdge-2.0的release，提高了加速节点和调度器的性能。当时SinaEdge平台承担了新浪大部分静态业务的加速服务，如微博图片，微盘，视频等等，提供了250G的带宽输出。
 
 主要技术或软件关键词：C++，Ruby，Python，Puppet，Traffic Server，PowerDNS
 
