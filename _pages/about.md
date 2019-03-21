@@ -25,7 +25,7 @@ author_profile: true
 
 # 二、职业愿景
 
-从最初的`IDC工程师`到`高级开发工程师`，到后来作为`技术主管`带团队做项目，再后来作为`架构师`带领团队做公司级基础平台型项目的研发，目前以`架构师`的身份在一家生物科技创业公司负责核心项目，这每一步组成了我的职业生涯提升路线。历时约10年的技术积累和管理经验积累，我的视野跟格局得到了很大的提升，不仅关注技术，更多关注技术带来的商业价值和社会价值。我认为医疗健康、生物科技行业是未来10年的朝阳行业，我将在这个行业里修炼我下一个10年的职业生涯。
+从最初的`IDC工程师`到`高级开发工程师`，到后来作为`技术主管`带团队做项目，再后来作为`架构师`带领团队做公司级基础平台型项目的研发，目前以`事业群总监`的角色在一家生物科技创业公司负责核心项目，这每一步组成了我的职业生涯提升路线。历时约10年的技术积累和管理经验积累，我的视野跟格局得到了很大的提升，不仅关注技术，更多关注技术带来的商业价值和社会价值。我认为医疗健康、生物科技行业是未来10年的朝阳行业，我将在这个行业里修炼我下一个10年的职业生涯。
 
 
 # 三、工作经历
@@ -42,7 +42,7 @@ author_profile: true
 
 技术方面
 
-- 广泛了解互联网背景下的技术知识
+- 广泛了解互联网背景下的技术知识，熟悉微生物基因组分析相关的技术知识
 - 熟练掌握Golang/Python/PHP开发，熟悉Java/C/C++的开发
 - 熟练掌握Linux下的自动化系统运维和开发的生态知识
 - 熟练掌握TCP/IP，DNS，HTTP，Restful等互联网相关技术标准
@@ -77,7 +77,7 @@ author_profile: true
 
 经历过上一段离职期间的思考，我最终选择了隶属于大健康方向下的“生物医疗”行业，我认为这是未来十年最有成长潜力的朝阳行业。
 
-在量化健康，我以架构师的角色，负责公司重点项目“微生物知识库”和“菌库”的建设，这两项均为公司的核心资产。
+在量化健康，我以事业群总监的角色负责公司重点项目"生物资源挖掘平台"，其包含“微生物知识库”和“菌库”的建设，这两项均为公司的核心资产。
 
 菌库（生物样本库）
 
@@ -92,7 +92,7 @@ author_profile: true
 - 开发爬虫从公开数据源爬取知识信息, 如，从NCBI爬取PubMed文献，物种的Taxonomy和Genome，从JGI Gold爬取物种信息，从公开词库爬取生物领域专有词汇翻译表，从KOMODO爬取微生物培养基信息等等, 然后将知识之间建立关系后导入搜索引擎ElasticSearch和图数据库Neo4j组成知识图谱, 科研部门就可以通过Web管理系统或者接口调取这些信息。
 
 
-主要技术或软件关键词：Golang，Python，C++，Kubernetes，Argo，Workflow，MongoDB，ElasticSearch，Neo4j，Genome，NCBI，Microbio, JGI Gold，PubMed，Taxonomy
+主要技术或软件关键词：Golang，Python，C++，Kubernetes，Argo，Workflow，MongoDB，ElasticSearch，Neo4j，OrientDB，Genome，NCBI，Microbio, JGI Gold，PubMed，Taxonomy，Metagenome，NGS
 
 ## 2017.4-2017.11，离职期间
 
@@ -215,6 +215,10 @@ GSLB全局流量调度器优化，提升可靠性和精准度
 
 * 个人Blog：<http://jackywu.github.io>
 * Github：<https://github.com/jackywu>
+* 个人贡献过的开源项目
+    * https://github.com/argoproj/argo
+    * https://github.com/jackywu/kraken-extension
+    * https://github.com/saltstack/salt
 * 原创文章
     * [GTD事务管理](http://jackywu.github.io/articles/事务管理分享/)
     * [Saltstack net-api Runner/Local模块调用分析](http://jackywu.github.io/articles/saltstack_net_api_runner_local_call/)
