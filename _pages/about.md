@@ -5,6 +5,8 @@ layout: single
 author_profile: true
 ---
 
+[下载pdf版本](/assets/downloads/resume.pdf)
+
 # 个人简介
 
 我是一个互联网+生物科技行业的技术人，居住在北京，我不仅对IT技术感兴趣，还对生物、医疗、健康、管理学，心理学等领域感兴趣。你可以通过如下方式了解和联系到我。
