@@ -9,6 +9,12 @@ author: JackyWu
 
 ---
 
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 # 背景
 
 该分析代码基于salt版本2015.5, 以下"/salt"为代码根目录.

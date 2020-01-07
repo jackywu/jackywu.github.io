@@ -9,6 +9,11 @@ author: JackyWu
 
 ---
 
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
 # 1. 前言
 
 1. 本代码分析基于 saltstack－2015.8 版本

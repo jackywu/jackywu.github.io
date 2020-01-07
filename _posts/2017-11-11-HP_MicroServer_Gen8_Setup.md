@@ -10,6 +10,8 @@ toc: true
 
 ![](/assets/images/weixin-pic-jackywu.jpg)
 
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 ##  SmartArray设置Raid
 
 服务器启动自检过程中，会提示按下特定的按键可以进入Intelligent Provisioning，然后进入Perform Maintenance，在Array Configuration Utility中选择硬盘配置Raid。我的环境是两个硬盘配置成了Raid1。

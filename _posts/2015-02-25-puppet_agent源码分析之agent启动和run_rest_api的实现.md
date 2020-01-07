@@ -8,6 +8,12 @@ author: JackyWu
 
 ---
 
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 ###  Puppet Agent的启动
 
 > author: 燃烧 <jacky.wucheng@gmail.com>

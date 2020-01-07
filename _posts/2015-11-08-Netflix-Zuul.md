@@ -9,6 +9,12 @@ author: JackyWu
 
 ---
 
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 ## 1. 介绍
 
 Zuul是一个缘边网关服务, 接收来自各种设备的请求转发到后端. 有如下功能:

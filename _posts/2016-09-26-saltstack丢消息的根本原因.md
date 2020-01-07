@@ -8,6 +8,14 @@ author: JackyWu
 
 
 ---
+
+
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 ## 前言
 
 首先我们来看一下SaltStack的通信机制架构图

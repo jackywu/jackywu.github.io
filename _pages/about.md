@@ -221,6 +221,7 @@ GSLB全局流量调度器优化，提升可靠性和精准度
     * https://github.com/argoproj/argo
     * https://github.com/jackywu/kraken-extension
     * https://github.com/saltstack/salt
+	* https://github.com/hashicorp/vagrant
 * 原创文章
     * [GTD事务管理](http://jackywu.github.io/articles/事务管理分享/)
     * [Saltstack net-api Runner/Local模块调用分析](http://jackywu.github.io/articles/saltstack_net_api_runner_local_call/)

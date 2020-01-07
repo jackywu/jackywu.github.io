@@ -12,6 +12,8 @@ author: JackyWu
 
 ![](/assets/images/weixin-pic-jackywu.jpg)
 
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 ## 一、待解决问题
 
 1. Master负责的Minion数量过多，并发消息量过大，导致Master过载而丢消息

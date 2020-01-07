@@ -9,6 +9,12 @@ author: JackyWu
 
 ---
 
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 # 1. Salt Minion连接多Master
 
 Salt Minion可以同时有多个Master，一旦连住就会保持长连接，并且会不断检测Master是否存活，然后重连。

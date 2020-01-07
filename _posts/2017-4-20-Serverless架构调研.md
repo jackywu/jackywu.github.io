@@ -12,6 +12,8 @@ author: JackyWu
 
 ![](/assets/images/weixin-pic-jackywu.jpg)
 
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 # 概念
 
 Serverless是一种技术架构。该技术的意义是：站在开发者的角度，自己不再关心IaaS层的基础设施的购买、运维、配置，也不关心自己应用的配置、部署、高可用这些PaaS层的东西，而是专注于实现业务逻辑的核心代码，其他的东西全部借助于公有云提供的服务实现。这种架构里，开发者自己并不接触Server，所以有了Serverless这个词。该模式下，开发者的效率是最高的，基本是100%的核心业务+0的业务支撑，而传统的IaaS架构里，我们在用20%的时间开发核心业务 + 80%的时间提供周边业务支撑。  

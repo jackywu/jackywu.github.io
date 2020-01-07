@@ -8,9 +8,17 @@ author: JackyWu
 
 ---
 
+## Contact me
+
+![](/assets/images/weixin-pic-jackywu.jpg)
+
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
+
 > author: 燃烧 <jacky.wucheng@gmail.com>
 >
 > 本代码分析基于pdns-recursor-3.5.3，编写于2014-1-5
+
 
 ## 如何挑选最快的Authoritative DNS Server？
 
