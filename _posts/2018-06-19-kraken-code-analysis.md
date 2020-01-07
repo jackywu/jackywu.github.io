@@ -11,6 +11,8 @@ toc: true
 
 ![](/assets/images/weixin-pic-jackywu.jpg)
 
+或者用邮件交流 <a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+
 ## 前言
 
 大家都知道[Kraken][]是一个序列分类器软件，经常被用来对序列进行物种鉴定。我们公司叫做 [量化健康][Quantibio]，主要从事于人体肠道微生物的研究，我们用[Kraken][]来进行微生物“种”水平的分类鉴定。
