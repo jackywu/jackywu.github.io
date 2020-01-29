@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             :  *name
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "技术总监"
   location         : "Beijing China"
   email            : "jacky.wucheng@gmail.com"
