@@ -1,10 +1,11 @@
 ---
-title: 书单目录
-category: articles
-tags: [书单]
-author: JackyWu
-comments: true
+permalink: /book/
+title: "书单"
+layout: single
+author_profile: true
+toc: true
 ---
+
 
 ## 2020年书单
 

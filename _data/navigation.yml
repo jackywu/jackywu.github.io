@@ -6,6 +6,8 @@ main:
     url: "/categories/"
   - title: "标签"
     url: "/tags/"
+  - title: "书单"
+    url: "/book/"
   - title: "联系我"
     url: "/contact/"
   - title: "关于我"
