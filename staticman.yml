@@ -11,14 +11,13 @@ comments:
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
   allowedFields: ["name", "email", "url", "message"]
-  #allowedFields: ["name", "email", "message"]
 
   # (*) REQUIRED WHEN USING NOTIFICATIONS
   #
   # When allowedOrigins is defined, only requests sent from one of the domains
   # listed will be accepted. The origin is sent as part as the `options` object
   # (e.g. <input name="options[origin]" value="http://yourdomain.com/post1")
-  # allowedOrigins: ["jackywu.github.io"]
+  # allowedOrigins: ["yourdomain.com"]
 
   # (*) REQUIRED
   #
@@ -26,7 +25,7 @@ comments:
   # request.
   branch: "master"
 
-  commitMessage: "New comment"
+  commitMessage: "New comment by {fields.name}"
 
   # (*) REQUIRED
   #
@@ -62,7 +61,7 @@ comments:
   #   type: "comment"
 
   # Name of the site. Used in notification emails.
-  name: "JackyWu's Blog"
+  # name: "Your Site"
 
   # Notification settings. When enabled, users can choose to receive notifications
   # via email when someone adds a reply or a new comment. This requires an account
@@ -84,8 +83,7 @@ comments:
   # (*) REQUIRED
   #
   # Destination path (directory) for the data files. Accepts placeholders.
-  path: "_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-  #path: "/_data/comments/" # "/_data/comments/{options.slug}" (default)
+  path: "docs/_data/comments/{options.slug}" # "_data/comments/{options.slug}" (default)
 
   # Names of required files. If any of these isn't in the request or is empty,
   # an error will be thrown.
@@ -93,16 +91,14 @@ comments:
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
-  #transforms:
-    #email: md5
+  transforms:
+    email: md5
 
   # reCaptcha
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
     enabled: true
-    # siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
+    siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    # secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
-    siteKey: "6LchUzYUAAAAAEnA82OBNs6DXf4oOZMGr9fHajFX"
-    secret: "Dm0TIAjj1C5Jnn81qdAQJto0ebfX5mwbvGXMXliprA3hfy7nkYRAc4Gge9uUGjfHl1+BkYd/3WMvWamU2m1QRUZLULmr8mWHy77auFCNC3Yu1C6zqZoT3mHIMoXR9Rjxy5ZGsWQF6fBPtReXYbZDlYnE75Ayl1dRrbG2fucGKBs="
+    secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="

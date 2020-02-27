@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "About me"
+title: "ABOUT ME"
 layout: single
 author_profile: true
+toc: true
 ---
 
 [下载pdf版本](/assets/downloads/resume.pdf)
@@ -18,7 +19,7 @@ author_profile: true
 **出生年月** ：1984  
 **毕业院校** ：哈尔滨工程大学  
 **学历**：本科  
-**E-mail** ：jacky.wucheng@gmail.com / jacky.wucheng@foxmail.com    
+**E-mail** ：<a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>    
 **手机**：18612624987    
 **工作年数** ：2008年至今    
 

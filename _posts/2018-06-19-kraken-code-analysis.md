@@ -1,6 +1,6 @@
 ---
 title: kraken源码分析
-category: articles
+category: technology
 tags: [生物信息,kraken,Perl,Shell,C++,分类,鉴定]
 author: JackyWu
 toc: true

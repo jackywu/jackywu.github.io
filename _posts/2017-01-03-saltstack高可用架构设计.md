@@ -1,7 +1,7 @@
 ---
 
 title:  saltstack高可用架构设计
-category: articles
+category: technology
 tags: [saltstack,HA]
 author: JackyWu
 

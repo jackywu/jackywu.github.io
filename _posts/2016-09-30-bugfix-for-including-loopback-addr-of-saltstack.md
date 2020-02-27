@@ -2,7 +2,7 @@
 
 
 title: bugfix-for-including-loopback-addr-of-saltstack
-category: articles
+category: technology
 tags: [bugfix, saltstack]
 author: JackyWu
 

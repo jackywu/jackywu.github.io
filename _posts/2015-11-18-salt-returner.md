@@ -2,7 +2,7 @@
 
    
 title: SaltStack Returner调研  
-category: articles  
+category: technology  
 tags: [saltstack, event, returner]  
 author: JackyWu  
   

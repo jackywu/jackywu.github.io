@@ -2,7 +2,7 @@
 
    
 title: Autotools小结  
-category: articles  
+category: technology  
 tags: [automake, autoconf, autotools]  
 author: JackyWu  
   

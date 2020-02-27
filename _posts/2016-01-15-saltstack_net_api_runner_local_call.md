@@ -2,7 +2,7 @@
 
    
 title: Saltstack net-api Runner/Local模块调用分析   
-category: articles  
+category: technology  
 tags: [saltstack, api, runner, local]  
 author: JackyWu  
   

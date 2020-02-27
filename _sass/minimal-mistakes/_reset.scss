@@ -13,6 +13,7 @@ html {
   @include breakpoint($medium) {
     //font-size: 18px;
     font-size: 14px;
+
   }
 
   @include breakpoint($large) {
@@ -175,7 +176,7 @@ input[type="checkbox"] {
 }
 
 input[type="search"] { /* Appearance in Safari/Chrome*/
-  box-sizing: content-box;
+  box-sizing: border-box;
   -webkit-appearance: textfield;
 }
 

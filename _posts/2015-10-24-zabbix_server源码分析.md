@@ -1,7 +1,7 @@
 ---
 
 title: Zabbix_server源码分析
-category: articles
+category: technology
 tags: [源码分析, zabbix, zabbix_server, 监控]
 author: JackyWu
 

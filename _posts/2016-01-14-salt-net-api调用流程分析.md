@@ -2,7 +2,7 @@
 
    
 title: Saltstack net-api 调用流程分析   
-category: articles  
+category: technology  
 tags: [saltstack, api]  
 author: JackyWu  
   

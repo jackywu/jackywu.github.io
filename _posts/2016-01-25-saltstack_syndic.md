@@ -2,7 +2,7 @@
 
    
 title: SaltStack Syndic   
-category: articles  
+category: technology  
 tags: [saltstack, syndic]  
 author: JackyWu  
   

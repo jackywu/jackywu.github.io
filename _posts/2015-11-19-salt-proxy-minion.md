@@ -2,7 +2,7 @@
 
    
 title:  SaltStack proxy minion调研  
-category: articles  
+category: technology  
 tags: [saltstack, proxy, minion]  
 author: JackyWu  
   

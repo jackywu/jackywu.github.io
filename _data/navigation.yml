@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "文章"
-    url: "/"
-  - title: "分类"
+  - title: "所有文章"
     url: "/categories/"
+  - title: "技术"
+    url: "/categories/technology/"
+  - title: "企业管理"
+    url: "/categories/management/"
+  - title: "投资理财"
+    url: "/categories/investment/"
+  - title: "其他文章"
+    url: "/categories/articles/"
   - title: "标签"
     url: "/tags/"
   - title: "书单"
@@ -12,11 +18,14 @@ main:
     url: "/contact/"
   - title: "关于我"
     url: "/about/"
-  # - title: "Projects"
-    # url: "/projects/"
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+#   - title: "Quick-Start Guide"
+#     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+#   - title: "About"
+#     url: https://mmistakes.github.io/minimal-mistakes/about/
+#   - title: "Sample Posts"
+#     url: /year-archive/
+#   - title: "Sample Collections"
+#     url: /collection-archive/
+#   - title: "Sitemap"
+#     url: /sitemap/

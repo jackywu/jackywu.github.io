@@ -1,7 +1,7 @@
 ---
 
 title: Serverless架构调研
-category: articles
+category: technology
 tags: [Serverless,PaaS,BaaS,FaaS,调研]
 author: JackyWu
 

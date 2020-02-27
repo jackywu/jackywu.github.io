@@ -1,7 +1,7 @@
 ---
 
 title: Puppet Agent源码分析之Agent启动和Run Rest-API的实现
-category: articles
+category: technology
 tags: [puppet, 源码分析, ruby]
 author: JackyWu
 

@@ -2,7 +2,7 @@
 
    
 title: Netflix Zuul调研
-category: articles  
+category: technology  
 tags: [Netflix, Cloud, Wireless, Gateway]  
 author: JackyWu  
   

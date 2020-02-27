@@ -2,7 +2,7 @@
 
    
 title: SaltStack 高可用   
-category: articles  
+category: technology  
 tags: [saltstack, ha, 高可用]  
 author: JackyWu  
   

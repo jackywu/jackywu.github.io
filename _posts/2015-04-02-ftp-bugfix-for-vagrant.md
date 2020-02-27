@@ -2,7 +2,7 @@
 
 
 title: ftp push bugfix for Vagrant
-category: articles
+category: technology
 tags: [ruby, vagrant]
 author: JackyWu
 

@@ -2,7 +2,7 @@
 
    
 title:  SaltStack 监控调研  
-category: articles  
+category: technology  
 tags: [saltstack,zeromq, 监控]  
 author: JackyWu  
   

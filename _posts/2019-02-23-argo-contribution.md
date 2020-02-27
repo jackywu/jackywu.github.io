@@ -1,7 +1,7 @@
 ---
 
 title: Argo Contribution
-category: articles
+category: technology
 tags: [Argo,Kubernetes,Github,PullRequest]
 author: JackyWu
 comments: true

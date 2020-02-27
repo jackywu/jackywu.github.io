@@ -1,6 +1,6 @@
 ---
 title: Kubernetes-Helms调研
-category: articles
+category: technology
 tags: [Kubernetes,helm,PaaS,调研]
 author: JackyWu
 toc: true

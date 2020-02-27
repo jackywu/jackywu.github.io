@@ -2,7 +2,7 @@
 
    
 title: SaltStack Multiple Master  
-category: articles  
+category: technology  
 tags: [saltstack, master]  
 author: JackyWu  
   

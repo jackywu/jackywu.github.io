@@ -2,7 +2,7 @@
 
 
 title:  SaltStack源码分析 - 任务处理机制
-category: articles
+category: technology
 tags: [saltstack, 分析, 源码]
 author: JackyWu
 
