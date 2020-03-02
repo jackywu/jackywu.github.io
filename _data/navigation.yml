@@ -4,7 +4,7 @@ main:
     url: "/categories/"
   - title: "技术"
     url: "/categories/technology/"
-  - title: "企业管理"
+  - title: "管理"
     url: "/categories/management/"
   - title: "投资理财"
     url: "/categories/investment/"
