@@ -22,7 +22,8 @@ toc: true
 **E-mail** ：<a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>    
 **手机**：18612624987    
 **工作年数** ：2008年至今    
-
+**籍贯**：杭州桐庐    
+**目前所在地**：北京    
 
 ![](/assets/images/weixin-pic-jackywu.jpg)
 
