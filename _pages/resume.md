@@ -10,7 +10,7 @@
 **毕业院校** ：哈尔滨工程大学  
 **学历**：本科  
 **E-mail** ：<a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>    
-**手机**：18612624987    
+**手机**：18612624987（同微信）    
 **工作年数** ：2008年至今    
 **籍贯**：杭州桐庐    
 **目前所在地**：北京    
@@ -71,18 +71,19 @@
 
 在[量化健康](https://quantibio.com/cn/zh/)，我以[菌库](https://microbe.quantibio.com/team)事业部总监的角色负责公司重点项目"生物资源挖掘平台"，其包含“菌库”和“知识库”的建设，这两项均为公司的核心资产。
 
-菌库（生物样本库）
+带领团队从零建设知识库（知识图谱）
 
-- 调研行业生物样本库的建设方案(如[-80˚C自动化样品存储方案](https://jackywu.github.io/articles/80-C自动化样品存储方案/), [中国最大的菌库调研](https://jackywu.github.io/articles/中国最大的菌种库调研/)), 基于成本和公司目前所处的阶段，建立自己的样本库标准，采购硬件设备，定制各种机械配件和实验器皿，开发IT管理系统来进行统筹管理。开源项目[jackywu/CustomizedFreezerRack: 生物样本库冷冻盒和支架定制](https://github.com/jackywu/CustomizedFreezerRack)
+- 基于Kubernetes平台，用Golang开发了整个IT基础架构的API平台，封装了后端知识图谱数据的存储和访问。
+- 基于[argoproj/argo: Container-native workflows for Kubernetes.](https://github.com/argoproj/argo)和Kubernetes架设了“生物信息分析平台”，编写了大量的脚本和文档降低平台的使用门槛，为生物信息团队提供培训，极大提高了其工作效率，增加了“知识库”的知识产量。并且为argo项目反馈了PullRequest，如[Pull Request #1121](https://github.com/argoproj/argo/pull/1121)，[Pull Request #1111](https://github.com/argoproj/argo/pull/1111)。
+- 开发爬虫从公开数据源爬取知识信息, 如从NCBI爬取PubMed文献，物种的Taxonomy和Genome，从JGI Gold爬取物种信息，从公开词库爬取生物领域专有词汇翻译表，从KOMODO爬取微生物培养基信息等等,  通过数据清洗、抽取、转换等操作后，将知识及知识之间的关联关系导入搜索引擎ElasticSearch和图数据库OrientDB组成知识图谱, 科研部门通过Web管理系统或者接口调取这些信息。
+
+带领团队从零建设菌库（生物样本库）
+
+- 调研行业生物样本库的建设方案(如[-80˚C自动化样品存储方案](https://jackywu.github.io/articles/80-C自动化样品存储方案/), [中国最大的菌库调研](https://jackywu.github.io/articles/中国最大的菌种库调研/)), 基于成本和公司目前所处的阶段，建立自己的样本库标准，采购硬件设备，定制各种机械配件和实验器皿，开发IT管理系统来进行统筹管理。开源项目[jackywu/CustomizedFreezerRack: 生物样本库冷冻盒和支架定制](https://github.com/jackywu/CustomizedFreezerRack)。
 - 跟实验室团队深入探讨菌库生产流水线的标准化建设方案，开发IT管理系统辅助该流水线的运营，实现样本入库，样本分离，菌株培养，质谱鉴定，测序，菌株冻存和活化，生信流程分析这一完整闭环流程，提升流水线效率超过行业水平2倍以上。
 - 为了提升生信团队对微生物物种鉴定的效率，开发了[jackywu/kraken-extension: utility extension software of kraken](https://github.com/jackywu/kraken-extension)来对kraken进行性能优化。
 
-知识库（知识图谱）
-
-- 用Golang开发了整个IT基础架构的API平台，封装了后端知识图谱数据的存储和访问。
-- 基于[argoproj/argo: Container-native workflows for Kubernetes.](https://github.com/argoproj/argo)架设了“生物信息分析平台”，编写了大量的脚本和文档降低平台的使用门槛，为生物信息团队提供培训，极大提高了其工作效率，增加了“知识库”的知识产量。并且还为argo项目反馈了几个PullRequest，如[Pull Request #1121](https://github.com/argoproj/argo/pull/1121)，[Pull Request #1111](https://github.com/argoproj/argo/pull/1111)。
-- 开发爬虫从公开数据源爬取知识信息, 如，从NCBI爬取PubMed文献，物种的Taxonomy和Genome，从JGI Gold爬取物种信息，从公开词库爬取生物领域专有词汇翻译表，从KOMODO爬取微生物培养基信息等等, 然后将知识之间建立关系后导入搜索引擎ElasticSearch和图数据库Neo4j组成知识图谱, 科研部门就可以通过Web管理系统或者接口调取这些信息。
-
+通过这几年的积累，自己在 基因组数据分析和IT平台建设、团队建设和管理、公司运营 方面有了很大的提升。
 
 主要技术或软件关键词：Golang，Python，C++，Kubernetes，Argo，Workflow，MongoDB，ElasticSearch，Neo4j，OrientDB，Genome，NCBI，Microbio, JGI Gold，PubMed，Taxonomy，Metagenome，NGS
 
