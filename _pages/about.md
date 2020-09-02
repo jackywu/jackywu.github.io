@@ -1,3 +1,11 @@
+---
+permalink: /about/
+title: "ABOUT ME"
+layout: single
+author_profile: true
+toc: true
+---
+
 # 一、基本资料
 
 **姓名** ：吴城  
@@ -23,7 +31,7 @@
 * 2008.06-2008.12，半年，网易
 * 2004.09-2008.06，4年，在校
 
-
+  
 
 # 四、专业技能
 
