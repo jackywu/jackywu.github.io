@@ -3,7 +3,7 @@
 
 title: SaltStack丢消息的根本原因
 category: technology
-tags: [SaltStack, ZeroMQ]
+tags: [saltstack, ZeroMQ]
 author: JackyWu
 
 
