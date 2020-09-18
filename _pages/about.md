@@ -9,40 +9,37 @@ toc: true
 # 一、基本资料
 
 **姓名** ：吴城  
-**出生年月** ：1984  
-**毕业院校** ：哈尔滨工程大学  
+**出生年份** ：1984  
+**毕业院校** ：哈尔滨工程大学
+**专业** ：机械设计制造
 **学历**：本科  
-**E-mail** ：<a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>    
-**手机**：18612624987（同微信）    
-**工作年数** ：2008年至今    
-**籍贯**：杭州桐庐    
+**邮箱** ：<a href="mailto:jacky.wucheng@foxmail.com">jacky.wucheng@foxmail.com</a>
+**手机**：18612624987（同微信）     
+**籍贯**：浙江杭州    
 **目前所在地**：北京      
+**工作时间** ：2008年至今   
 
-# 二、成长历程
+# 二、工作经历
 
-从最初的`IDC工程师`到`高级开发工程师`，到后来作为`技术主管`带团队做项目，再后来作为`架构师`带领团队做公司级基础平台型项目的研发，目前以`事业部总监`的角色在一家生物科技创业公司负责核心项目，这每一步组成了我的职业生涯提升路线。历时约10年的技术积累和管理经验积累，我的视野跟格局得到了很大的提升，不仅关注技术，更多关注技术带来的商业价值和社会价值。
+- 2017.11 ~ 至今，量化健康，在IT部担任“技术总监”岗位，负责IT部团队管理和“宏基因组测序分析平台”、“微生物知识图谱系统”的架构设计与核心模块编码工作。
+- 2014.10 ~ 2017.04，汽车之家，在系统平台部担任“高级架构师”岗位，负责技术团队管理和“devops平台”的架构设计与核心模块编码工作。
+- 2009.01 ~ 2014.09，新浪
 
-
-# 三、工作经历
-
-* 2017.11-至今，量化健康
-* 2014.10-2017.04，2年半，汽车之家
-* 2009.01-2014.09，5年半，新浪
-* 2008.06-2008.12，半年，网易
-* 2004.09-2008.06，4年，在校
+  1. 在“研发部”先后担任“高级系统开发工程师”和“技术主管”岗位，负责团队管理和“新浪图床系统”、“新浪CDN平台”、“新浪多媒体转码系统”的架构设计与核心模块编码工作。
+  2. 在“公共服务部”担任“系统管理员”和“PHP开发工程师”岗位，负责“新浪登录注册系统”的运维和后端开发工作，负责“新浪IM在线系统”的架构改造工作。
+- 2008.06 ~ 2008.12，网易，在网络系统部担任“IDC系统工程师”岗位，负责IDC服务器和网络设备的上下线、机架部署、网络布线、巡检和故障处理，在云计算数据中心的大规模系统部署和运维方面积累了丰富经验。
 
   
 
-# 四、专业技能
+# 三、专业技能
 
 技术方面
 
-- 同时熟悉互联网和生命科技方面的技术知识
 - 熟练掌握Golang/Python/PHP开发，熟悉Java/C/C++的开发
 - 熟练掌握Linux下的系统开发和自动化运维的生态知识
 - 熟练掌握TCP/IP，DNS，HTTP，Restful等互联网相关技术标准
-- 熟练掌握LVS, HAProxy, Nginx等7/4层负载均衡技术
-- 熟悉MySQL/PostgreSQL等RDBMS，Redis/Memcached/MongoDB等NOSQL，HDFS/HBase/Ceph等分布式存储, Neo4j/OrientDB等图数据库
+- 熟练掌握LVS，HAProxy，Nginx等7/4层负载均衡技术
+- 熟悉MySQL/PostgreSQL等RDBMS，Redis/Memcached/MongoDB等NOSQL，HDFS/HBase/Ceph等分布式存储，Neo4j/OrientDB等图数据库
 - 熟悉Kubernetes/Docker容器技术
 - 熟悉大数据生态圈，如Hadoop，Kafka，Spark，ELK
 - 具备大规模分布式系统的架构设计和开发经验
@@ -58,14 +55,9 @@ toc: true
 - 研发团队的日常管理，包括任务分配、进度跟踪、过程质量控制等等
 - 定期项目总结，向下管理，向上汇报
 
-行业
-
-- 熟悉互联网行业的技术知识，熟悉常见的互联网产品运营思路和商业模式
-- 熟悉生命科技行业的背景知识，产业链和市场格局，了解IT技术和生物信息技术在该行业里产生价值的方法
 
 
-
-# 五、项目经历
+# 四、项目经历
 
 
 ## 2017.11-至今，量化健康
@@ -88,7 +80,7 @@ toc: true
 
 通过这几年的积累，自己在 基因组数据分析和IT平台建设、团队建设和管理、公司运营 方面有了很大的提升。
 
-主要技术或软件关键词：Golang，Python，C++，Kubernetes，Argo，Workflow，MongoDB，ElasticSearch，Neo4j，OrientDB，Genome，NCBI，Microbio,  JGI Gold，PubMed，Taxonomy，Metagenome，NGS
+主要技术或软件关键词：Golang，Python，C++，Kubernetes，Argo，Workflow，MongoDB，ElasticSearch，Neo4j，OrientDB
 
 ## 2017.4-2017.11，离职期间
 
@@ -202,9 +194,9 @@ GSLB全局流量调度器优化，提升可靠性和精准度
 
 
 
-# 六、个人作品
+# 五、个人作品
 
-* 个人Blog：<http://jackywu.github.io>
+* Blog：<http://jackywu.github.io>
 * Github：<https://github.com/jackywu>
 * 个人贡献过的开源项目
     * [jackywu/argo: Container-native workflows for Kubernetes.](https://github.com/jackywu/argo)  
