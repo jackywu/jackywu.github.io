@@ -1,12 +1,10 @@
 ---
-
 title: coc.nvim troubleshoot
 category: technology
 tags: [vim]
 author: JackyWu
 toc: true
 comments: true
-
 ---
 
 如果有兴趣，可以跟我联系交流：[这里](/contact/)
