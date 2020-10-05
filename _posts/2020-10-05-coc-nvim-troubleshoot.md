@@ -1,6 +1,5 @@
 ---
 
-layout: post
 title: coc.nvim troubleshoot
 category: technology
 tags: [vim]
