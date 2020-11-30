@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /about.v2/
 title: "ABOUT ME"
 layout: single
 author_profile: true
