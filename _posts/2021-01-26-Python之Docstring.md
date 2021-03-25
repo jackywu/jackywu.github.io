@@ -6,6 +6,10 @@ tags: [Python]
 author: JackyWu
 
 ---
+如果有兴趣，可以跟我联系交流：[这里](/contact/)
+
+---
+
 # DocString
 
 - 按长度分
