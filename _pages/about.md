@@ -26,8 +26,9 @@ toc: true
 
 - 2009.01 ~ 2014.09，新浪（北京）
 
-- 1. 在“研发部”先后担任“高级系统开发工程师”和“技术主管”岗位，负责团队管理（15人）和“新浪图床系统”、“新浪CDN平台”、“新浪多媒体转码系统”的架构设计与核心模块编码工作。
-  2. 在“公共服务部”担任“系统管理员”和“PHP开发工程师”岗位，负责“新浪登录注册系统”的运维和后端开发工作，负责“新浪IM在线系统”的架构改造工作。
+  - 在“研发部”先后担任“高级系统开发工程师”和“技术主管”岗位，负责团队管理（15人）和“新浪图床系统”、“新浪CDN平台”、“新浪多媒体转码系统”的架构设计与核心模块编码工作。
+
+  - 在“公共服务部”担任“系统管理员”和“PHP开发工程师”岗位，负责“新浪登录注册系统”的运维和后端开发工作，负责“新浪IM在线系统”的架构改造工作。
 
 - 2008.06 ~ 2008.12，网易（北京），在网络系统部担任“IDC系统工程师”岗位，负责IDC服务器和网络设备的上下线、机架部署、网络布线、巡检和故障处理，在云计算数据中心的大规模系统部署和运维方面积累了丰富经验。
 
@@ -221,7 +222,7 @@ toc: true
 
 - 个人贡献过的开源项目
 
-- - [jackywu/argo: Container-native workflows for Kubernetes](https://github.com/jackywu/argo). 
+  - [jackywu/argo: Container-native workflows for Kubernetes](https://github.com/jackywu/argo). 
   - [jackywu/bee: Bee is a tool for helping develop with beego app framework](https://github.com/jackywu/bee). 
   - [jackywu/salt: Software to automate the management and configuration of any infrastructure](https://github.com/jackywu/salt). 
   - [AutohomeCorp/Assets_Report: A assets report plugin for puppet-master based on Facter，https://github.com/AutohomeCorp/Assets_Report](https://github.com/AutohomeCorp/Assets_Report).
